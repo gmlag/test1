@@ -1,4 +1,4 @@
 cd im_clone
-echo aaa >>file1.txt
+echo aaa >>file91.txt
 git add *
-git commit -m "change"
+git commit -m "change master"
